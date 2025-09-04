@@ -1,2 +1,2 @@
-# Paginasweb25
-paginas web de la materia
+# Estrella Lizeth
+Paginas dedicada a la materia 
